@@ -49,14 +49,33 @@ Password-password
 
 Project Sample Images are given in e-comm shots folder. Each section snapshots are given in it to understand the working of the project.
 
-Other Detail
+Other Details:
+
 Software Requirement :  
+
 Languages : Html,css,java 
+
+xampp needs to be installed
+
 Netbeans, 
+
+need to upload Online-Musical-Instrument-shop project folder in netbeans.
+
+Apache tomcat server needs to be installed in netbeans.
+
+apache commons- fileupload.jar file also needs to installed
+
+
 jsp servlet, 
+
 database-My Sql
 
+database musicaljava needs to be created at localhost:/phpmylogin and then needs to import musicaljava.sql file.
+
 Hardware Requirement :   
+
 • Intel Processor 2.0 GHz or above. 
+
 • 2 GB RAM or more. 
+
 • 160 GB or more Hard Disk Drive or above.
