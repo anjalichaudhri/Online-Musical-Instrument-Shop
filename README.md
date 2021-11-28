@@ -30,7 +30,7 @@ Admin id- anjali
 
 Password-password
 
-Project Sample Image 
+Project Sample Images are given in e-comm shots folder. Each section snapshots are given in it to understand the working of the project.
 
 Other Detail
 Software Requirement :  
